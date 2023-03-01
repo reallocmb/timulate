@@ -1,0 +1,16 @@
+Day/Week/Year 1:1:2010
+
+Week Tournaments:
+    1. [group_id] [name] [location] [type]
+    2. [group_id] [name] [location] [type]
+    3. [group_id] [name] [location] [type]
+    4. [group_id] [name] [location] [type]
+
+Results:
+
+Options:
+1. Next Day Sim
+2. Next Week Sim
+3. Previous Day
+4. Previous Week
+5. Show Tournament Tree [id]
