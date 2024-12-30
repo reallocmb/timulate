@@ -14,12 +14,12 @@
 
 void timulate_main_loop(void)
 {
+    /*
     timulate_tui_render();
     timulate_tui_input();
-    /*
+    */
     timulate_ui_cl_update();
     timulate_ui_cl_input();
-    */
 }
 
 int main(int argc, char **argv)
